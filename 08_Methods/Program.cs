@@ -131,16 +131,16 @@ namespace _08_Methods
 
 
             #region Örnek Uygulama
-            //string ExamResult(string student, int exam1,  int exam2, int exam3)
+            //string ExamResult(string student, int exam1, int exam2, int exam3)
             //{
             //    int result = (exam1 + exam2 + exam3) / 3;
-            //    if(result >= 50)
+            //    if (result >= 50)
             //    {
-            //        return  student + " isimli öğrenci Sınavı Geçti " + "Ortalama: " + result;
+            //        return student + " isimli öğrenci Sınavı Geçti " + "Ortalama: " + result;
             //    }
             //    else
             //    {
-            //        return  student + " isimli öğrenci Sınavı geçemedi " + "Ortalama: " + result;
+            //        return student + " isimli öğrenci Sınavı geçemedi " + "Ortalama: " + result;
             //    }
             //}
             //Console.WriteLine(ExamResult("Ali", 25, 45, 55));
